@@ -2,7 +2,7 @@
 name: "Reference & Post \U0001F4D6"
 about: 새로운 레퍼런스 또는 블로그 글에 대한 리뷰를 추가합니다.
 title: 원본 포스팅의 제목을 최대한 보존해 주세요!
-labels: ''
+labels: 'reference'
 assignees: ''
 
 ---
