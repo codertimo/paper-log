@@ -7,7 +7,7 @@
 
 This repo is built for archiving things that I've learned from research paper or reference.
 
-Mostly, the contents will be related to **dialog system**, cuase my recent interest is dialog-system.
+Mostly, the contents will be related to **NLP(Natural Language Processing)**, cuase my recent interest is dialog-system.
 But would like to extend to other domain ASAP for my knowledge expansion.
 
 At first, the main language for paper review will be **Korean**🇰🇷 due to my bad english skill.
@@ -18,7 +18,7 @@ At first, the main language for paper review will be **Korean**🇰🇷 due to m
 
 [paper-log](https://github.com/codertimo/paper-log) 는 논문과 여러 레퍼런스를 읽으면서 배운 점들을 기록하는 곳입니다.
 
-아마 초반에 기록할 대부분의 레퍼런스들이 챗봇(Dialog-System)에 관련한 주제가 될 것 같은데요.
+아마 초반에 기록할 대부분의 레퍼런스들이 NLP(Natural Language Processing)에 관련한 주제가 될 것 같은데요.
 물론 다른 분야의 논문들도 많이 읽어보고, 다양한 지식들을 배우고 싶습니다! 글들을 조금씩 써 나가면서 다양한 분야를 경험할 수 있는 방향으로 나아갈 예정입니다.
 
 처음에는 영어로 작성하려고 하였으나.. 처음부터 영어로 작성하면 습관이 잘 안잡힐 것 같아서 먼저 한국어로 써보려고 합니다.
