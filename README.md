@@ -7,7 +7,7 @@
 
 This repo is built for archiving things that I've learned from research paper or reference.
 
-Mostly, the contents will be related to **NLP(Natural Language Processing)**, cuase my recent interest is dialog-system.
+Mostly, the contents will be related to **NLP(Natural Language Processing)**, cause my recent interest is dialog-system.
 But would like to extend to other domain ASAP for my knowledge expansion.
 
 At first, the main language for paper review will be **Korean**🇰🇷 due to my bad english skill.
